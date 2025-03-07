@@ -1,0 +1,14 @@
+# Unity 관련 불필요한 폴더
+Library/
+Logs/
+Temp/
+obj/
+Build/
+WebGL Builds/
+
+# Visual Studio 관련 불필요한 파일
+*.sln
+*.csproj
+*.zip
+*.vsconfig
+UpgradeLog.htm
